@@ -31,6 +31,7 @@ main{
     width: 100%;
 }
 .second-part{
+    width: 400px;
     padding-left:2%;
     padding-right: 2%;
     background-color: white;
@@ -68,12 +69,14 @@ main{
 }.share{
     width: 300px;
 }
-svg{
+button{
+    border: transparent;
     border: solid transparent;
     border-radius: 100%;
-    padding: 10%;
+    padding: 1.5%;
     background-color: #ECF2F8;
 }
+
 .share-social-icons{
     position: relative;
     left: -30px;
