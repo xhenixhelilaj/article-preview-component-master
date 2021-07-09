@@ -22,6 +22,7 @@ main{
     width: 100%;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px ;
+
 }
 .first-part{
     flex-basis: 35%;
@@ -62,6 +63,7 @@ main{
     margin-right: 20px;
 }
 .attribution{
-    margin-top: 10px;
-    margin-left: 95px;
+    margin-top: 20px;
+    margin-left: 155px;
+    font-size: 12px;
 }
